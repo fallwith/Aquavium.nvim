@@ -1,0 +1,13 @@
+name: Documentation Issue
+description: Report a documentation issue
+title: "[Docs] "
+labels: ["documentation"]
+
+body:
+
+    - type: textarea
+      id: content
+      attributes:
+          label: Description
+      validations:
+          required: true

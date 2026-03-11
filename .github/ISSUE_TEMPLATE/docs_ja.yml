@@ -1,0 +1,13 @@
+name: ドキュメントの問題
+description: ドキュメントの誤りや不足
+title: "[Docs] "
+labels: ["documentation"]
+
+body:
+
+    - type: textarea
+      id: content
+      attributes:
+          label: 内容
+      validations:
+          required: true
