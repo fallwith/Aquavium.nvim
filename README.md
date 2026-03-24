@@ -3,6 +3,12 @@
     <sub>Aquarium color scheme on Neovim</sub>
 </div>
 
+<br><br>
+
+<div align="center">
+    <img src="./img/SocialPreview.png" alt="Preview" width="700"/>
+</div>
+
 ## ✨ 概要 - Overview -
 <sub>"Aquavium" is designed for use with a transparent terminal background</sub>  
 "Aquavium"はターミナルの背景を透過させることを前提とした、  
