@@ -6,6 +6,29 @@ CONTRIBUTING GUIDELINE<br>
 > <sub>Used AI for some translations.</sub><br>
 > 一部の翻訳にはAIを使用しています。
 
+## Development policy
+<sub>In this repository, we strive to achieve the following in our development.</sub><br>
+本リポジトリでの開発は、下記の事項を満たすことを心がけています。<br>
+<sub>We appreciate your understanding and cooperation for those planning to contribute.</sub><br>
+コントリビュートする方は、ご理解とご協力をよろしくお願いいたします。<br>
+1. **最新のNeovim上で、正常に動作するよう、最大限努力すること。**
+2. **データの喪失などの、壊滅的な影響を及ぼさぬよう、最大限に注意し、また、  
+そのようなバグの報告があった際には、可能な限り早急に修正に努めること。**
+3. **インスピレーション元や、元ネタ、統合先である作品やソフトウェアへのリスペクトを欠かさず、  
+それらのイメージ低下等を防ぐため、利用規約やライセンス、ガイドラインに必ず準拠すること。  
+また、それらの作者様より何らかの問題のご指摘があった際には、直ちに改善、解消に務めること。**
+
+<br>
+
+1. **We will make our utmost efforts to ensure normal operation on the latest Neovim.**
+2. **We will exercise maximum caution to prevent catastrophic effects-such as data loss.   
+In the event of such a bug report, we will endeavor to fix it as quickly as possible.**
+3. **We will always show respect for the works and software that 
+serve as inspiration, original sources, or integration targets,  
+and we will strictly adhere to their terms of use, licenses, and guidelines to prevent any damage to their image.  
+Furthermore, if the creators of such works or software point out any issues,   
+we will immediately strive to improve and resolve them.**
+
 ## flowchart
 ```mermaid
 flowchart TD
