@@ -25,3 +25,5 @@
 - [ ] セルフレビュー済み - Self-review completed
 - [ ] 必要なドキュメントのアップデート - Documentation updated if needed
 - [ ] 破壊的変更なし - No breaking changes
+
+- [ ] (Markdown) GitHub上でのプレビュー済み - Previewed on GitHub
