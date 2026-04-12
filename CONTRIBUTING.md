@@ -203,12 +203,11 @@ fix/cant-skip-config-when-edit-target
 
 ## Build
 
-<sub>This program is developed in the following environment. (as of 2026/03/11)</sub><br>
-本プログラムは下記の環境で開発しています。(2026/03/11時点)<br>
+<sub>This program is developed in the following environment. (as of 2026/04/12)</sub><br>
+本プログラムは下記の環境で開発しています。(2026/04/12時点)<br>
 
 - Windows 11 (Build 26200)
-- Microsoft Visual Studio Community 2026
-- Neovim 0.11.6
+- Neovim 0.12.0
 - WezTerm Nightly
 
 <sub>Currently, verification is performed based on this setting. (as of 2026/03/21)</sub><br>
