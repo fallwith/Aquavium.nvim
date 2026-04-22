@@ -86,8 +86,8 @@
 
 |TermColor|dark-wallpaper|light-wallpaper|
 |---|---|---|
-|black|![win11,000000,70per,dark](./docs/images/win11-000000-70per-dark.png)|![win11,000000,70per,light](./docs/images/win11-000000-70per-light.png)|
-|blue|![win11,02083a,70per,dark](./docs/images/win11-02083a-70per-dark.png)|![win11,blue,70per,light](./docs/images/win11-02083a-70per-light.png)|
+|black|![win11,000000,70per,dark](./doc/images/win11-000000-70per-dark.png)|![win11,000000,70per,light](./doc/images/win11-000000-70per-light.png)|
+|blue|![win11,02083a,70per,dark](./doc/images/win11-02083a-70per-dark.png)|![win11,blue,70per,light](./doc/images/win11-02083a-70per-light.png)|
 
 ## 💼 依存関係 - Dependents -
 - [Neovim](https://github.com/neovim/neovim) 0.11+
@@ -174,8 +174,8 @@ config.window_background_opacity = 0.7
 
 <sub>This color theme is inspired by [The Aquarium does not dance](https://daidai7742.wixsite.com/aqua-dance).</sub>  
 本カラーテーマは[アクアリウムは踊らない](https://daidai7742.wixsite.com/aqua-dance)より、インスピレーションを受けました。  
-<sub>For more details, please see [here](./docs/TADND.md).</sub>  
-アクアリウムは踊らないについて、詳しくは[こちら](./docs/TADND.md)を御覧ください。  
+<sub>For more details, please see [here](./doc/TADND.md).</sub>  
+アクアリウムは踊らないについて、詳しくは[こちら](./doc/TADND.md)を御覧ください。  
 <sub>(2026/02/15) Happy 2nd Anniversary!</sub>  
 (2026/02/15) 二周年、おめでとうございます!
   
