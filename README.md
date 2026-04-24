@@ -99,8 +99,29 @@
 - [lazy.nvim](https://github.com/folke/lazy.nvim)
 - [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 - [Markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+- [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 - [nvim-notify](https://github.com/rcarriga/nvim-notify)
 - [nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)
+
+<details>
+<summary>有効化の方法 / How to apply</summary>
+<details>
+<summary>nvim-cmp</summary>
+<pre lang="lua"><code>config = function()
+    local cmp = require("cmp")
+    cmp.setup({
+        window = {
+            completion = {
+                winhighlight = "Normal:CmpNormal,FloatBorder:CmpBorder,CursorLine:CmpMenuSel",
+            }
+        },
+    })
+end,
+</code></pre>
+</details>
+</details>
+<sub>For plugins not listed in the "How to apply" section, no specific configuration is required.</sub><br>
+有効化の方法について記載のないプラグインについては、特別な設定は不要です。
 
 ## 🔧 インストール - Install -
 ### In terminal
@@ -124,7 +145,12 @@ config.window_background_opacity = 0.7
 --config.window_decorations = 'INTEGRATED_BUTTONS'
 ```
 ### In Neovim
-#### Lazy.nvim
+#### **推奨設定/Recommended**
+```lua
+vim.opt.winborder = "rounded"
+```
+#### パッケージマネージャー/Package Manager
+##### Lazy.nvim
 ```lua
 {
     "T-b-t-nchos/Aquavium.nvim",
