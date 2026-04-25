@@ -160,18 +160,7 @@ vim.opt.winborder = "rounded"
         local aquavium = require("Aquavium")
 
         aquavium.setup({
-            -- options
-
-            ---- For example,
-            -- bold = false,
-            -- italic = false,
-            -- transparent = false,
-            --
-            -- custom_highlights = function(c, opts)
-            --     return {
-            --         Comment = { fg = c.cyan, bold = opts.bold }
-            --     }
-            -- end,
+            -- your options here
         })
 
         vim.cmd("colorscheme Aquavium")
