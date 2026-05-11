@@ -1,5 +1,5 @@
 # Aqualagium.lazygit 🪸
-##### Aquavium color scheme on Oh My Posh
+##### Aquavium color scheme on Lazygit
 <hr>
 
 ## 💼 依存関係 - Dependencies -
